@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brescia-house-school-redesign.musibhizi.chatgpt.site/sitemap.xml

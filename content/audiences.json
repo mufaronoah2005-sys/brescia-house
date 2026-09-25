@@ -1,0 +1,122 @@
+[
+  {
+    "id": "prospective-parent",
+    "title": "Prospective parent",
+    "description": "Explore the school and plan your next step.",
+    "links": [
+      [
+        "Why Brescia",
+        "/about/"
+      ],
+      [
+        "Academics",
+        "/academics/"
+      ],
+      [
+        "School life",
+        "/school-life/"
+      ],
+      [
+        "Fees",
+        "/admissions/#fees"
+      ],
+      [
+        "Admissions",
+        "/admissions/"
+      ],
+      [
+        "Book a tour",
+        "/tour/"
+      ],
+      [
+        "Contact admissions",
+        "mailto:admissions@brescia.co.za"
+      ]
+    ]
+  },
+  {
+    "id": "current-parent",
+    "title": "Current parent",
+    "description": "School information, calendars and community news.",
+    "links": [
+      [
+        "Parent information",
+        "https://www.brescia.co.za/parents"
+      ],
+      [
+        "School calendar",
+        "https://www.brescia.co.za/term_calendar"
+      ],
+      [
+        "News & events",
+        "/news/"
+      ]
+    ],
+    "placeholder": "Parent portal sign-in link awaiting confirmation from the school."
+  },
+  {
+    "id": "student",
+    "title": "Student",
+    "description": "Explore learning, activities and school dates.",
+    "links": [
+      [
+        "Academics",
+        "/academics/"
+      ],
+      [
+        "School life",
+        "/school-life/"
+      ],
+      [
+        "Calendar",
+        "https://www.brescia.co.za/term_calendar"
+      ]
+    ]
+  },
+  {
+    "id": "alumna",
+    "title": "Alumna",
+    "description": "Stay connected with the Brescia community.",
+    "links": [
+      [
+        "Alumnae information",
+        "https://www.brescia.co.za/alumnae"
+      ],
+      [
+        "School news",
+        "/news/"
+      ]
+    ]
+  },
+  {
+    "id": "teacher",
+    "title": "Teacher",
+    "description": "School information and useful contacts.",
+    "links": [
+      [
+        "School calendar",
+        "https://www.brescia.co.za/term_calendar"
+      ],
+      [
+        "Contact the school",
+        "/contact/"
+      ]
+    ],
+    "placeholder": "Staff portal and teacher resources awaiting information from the school."
+  },
+  {
+    "id": "visitor",
+    "title": "Visitor",
+    "description": "Plan a visit and get in touch.",
+    "links": [
+      [
+        "Book a tour",
+        "/tour/"
+      ],
+      [
+        "Contact & directions",
+        "/contact/"
+      ]
+    ]
+  }
+]
